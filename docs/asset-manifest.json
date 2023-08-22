@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b707e213.css",
+    "main.js": "/static/js/main.7db2fe3b.js",
+    "static/js/787.f499275f.chunk.js": "/static/js/787.f499275f.chunk.js",
+    "static/media/HeladoCliente.jpg": "/static/media/HeladoCliente.a685b476ed3cd469c99a.jpg",
+    "static/media/Carruzel-Helado.jpg": "/static/media/Carruzel-Helado.f5683fb5a380ac9f0d4d.jpg",
+    "static/media/Caja-surtido-250gr.jpg": "/static/media/Caja-surtido-250gr.7a547337cb538e2024f8.jpg",
+    "static/media/Carruzel-Helado3.jpg": "/static/media/Carruzel-Helado3.032107b041021252ce30.jpg",
+    "static/media/heladoLogo.png": "/static/media/heladoLogo.9b7e2e349a11f6ca5d0d.png",
+    "static/media/Carruzel-Helado2.jpg": "/static/media/Carruzel-Helado2.c631fb5f84abc7923eff.jpg",
+    "static/media/Caja-surtido-500gr.jpg": "/static/media/Caja-surtido-500gr.bcf0df1f2d38429b249b.jpg",
+    "static/media/Caja-surtido-1kilo.jpg": "/static/media/Caja-surtido-1kilo.be208e01777509915210.jpg",
+    "static/media/TarjetaChocolate.jpg": "/static/media/TarjetaChocolate.6e30a5354591ac926ea1.jpg",
+    "static/media/Caja-21-Bombones.jpg": "/static/media/Caja-21-Bombones.ae7ef5f8d1818e1e736e.jpg",
+    "static/media/Chocolate2.jpg": "/static/media/Chocolate2.9ab306b0ef22c2a4a501.jpg",
+    "static/media/HeladoFrutosBosque.jpg": "/static/media/HeladoFrutosBosque.e385fd9d6a0b400cd398.jpg",
+    "static/media/TarjetaHelado.jpg": "/static/media/TarjetaHelado.e5f49d1590622f65f9ce.jpg",
+    "static/media/instagram.svg": "/static/media/instagram.849150f40cd137617202962a2e728c4d.svg",
+    "static/media/twitter.svg": "/static/media/twitter.e42d106c22cfc1d9eb3666486d993987.svg",
+    "index.html": "/index.html",
+    "static/media/mapa.svg": "/static/media/mapa.e4c6de3aff1bae1a179806234062064b.svg",
+    "main.b707e213.css.map": "/static/css/main.b707e213.css.map",
+    "main.7db2fe3b.js.map": "/static/js/main.7db2fe3b.js.map",
+    "787.f499275f.chunk.js.map": "/static/js/787.f499275f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b707e213.css",
+    "static/js/main.7db2fe3b.js"
+  ]
+}
