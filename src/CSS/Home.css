@@ -1,0 +1,78 @@
+
+
+
+
+.imagen-helados {
+    width: 17.5rem;  
+    height: 17.5rem; 
+    border: 2px solid rgb(233, 233, 85);
+    border-radius: 8px;
+    margin-bottom: 4%;
+}
+
+
+.Carruzel {
+    width:71%;
+    border: 1px solid rgb(233, 233, 85);
+    border-radius: 8px;
+} 
+    
+    
+
+h2{
+    font-size: 194% !important;
+    
+}
+    
+    
+    
+
+
+.container .imagen1 {
+    color: black;
+}
+.container .parrafo1{
+    color: black;
+}
+.container .imagen2{
+    color:yellow;
+}
+
+.container .parrafo2{
+    color:yellow;
+}
+
+.container .imagen3{
+    color:black;
+}
+
+.container .parrafo3{
+    color: black;
+}
+
+
+
+.contenedor{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-top: 5%;
+    
+    
+}
+
+
+
+
+
+
+
+
+.texto{
+    text-align: center;
+    margin-top: 5%;
+}
+
+.Formulario{
+    margin-top: 10%;   
+}
